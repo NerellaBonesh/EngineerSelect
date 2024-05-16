@@ -1,7 +1,3 @@
-Great! Here is an updated version of the README with the correct GitHub username and a link to the repository:
-
----
-
 # EngineerSelect
 
 EngineerSelect is a comprehensive web application designed to help students and recent graduates search for engineering colleges and access detailed information about them. This platform is built using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.

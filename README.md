@@ -51,3 +51,9 @@ Make sure you have the following installed on your machine:
 - **Add College**: Fill out the form to add a new college.
 - **Update College**: Edit existing college details.
 - **Delete College**: Remove a college from the database.
+
+### Team mates 
+- **Nerella Bonesh**
+- **Golla Bharadwaj**
+- **S Kowsik Chowdary**
+- **Racharla Sanjana**
